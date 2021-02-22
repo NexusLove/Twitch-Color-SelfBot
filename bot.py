@@ -7,8 +7,8 @@ import threading
 changeColor = True
 newColor = 000000
     
-user = ""
-channel = ""
+user = "nexueloveyt"
+channel = "https://www.twitch.tv/luckiibug"
 
 
 oauth = "oauth:4cs5cpxs0nzvie6vn3z27iyhwrjen1"
