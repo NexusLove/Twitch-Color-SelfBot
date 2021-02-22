@@ -11,7 +11,7 @@ user = ""
 channel = ""
 
 
-oauth = "oauth:"
+oauth = "oauth:4cs5cpxs0nzvie6vn3z27iyhwrjen1"
 # get your oauth token here: https://twitchapps.com/tmi/
 
 s = socket.socket()
